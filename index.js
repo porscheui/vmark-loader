@@ -1,4 +1,4 @@
-const vmark = require('vmark')
+const vmark = require('@porsche-design-system/vmark')
 const loaderUtils = require('loader-utils')
 
 module.exports = function (source) {

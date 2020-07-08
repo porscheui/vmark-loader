@@ -1,5 +1,5 @@
 {
-  "name": "vmark-loader",
+  "name": "@porsche-design-system/vmark-loader",
   "version": "1.0.0",
   "description": "Webpack loader for vmark.",
   "repository": {
@@ -20,14 +20,14 @@
     "loader-utils": "^1.1.0"
   },
   "devDependencies": {
+    "@porsche-design-system/vmark": "^1.2.0",
     "eslint-config-rem": "^3.0.0",
-    "vmark": "^1.0.0",
     "xo": "^0.18.0"
   },
   "xo": {
     "extends": "rem"
   },
   "peerDependencies": {
-    "vmark": "^1.0.0"
+    "@porsche-design-system/vmark": "^1.2.0"
   }
 }
